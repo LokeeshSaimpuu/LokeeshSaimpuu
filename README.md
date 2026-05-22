@@ -13,7 +13,6 @@
 Hey! I'm **Lokeesh Saimpuu** — a passionate **Software Engineer** with **5+ years of experience** crafting elegant, scalable, and high-performance web applications. I thrive at the intersection of clean code and great user experiences.
 
 - 🔭 **Currently working on:** Full-stack web applications and cloud-native solutions
-- 🎥 **Content Creator:** Sharing knowledge on **YouTube**, **Medium**, and **Instagram**
 - 🌱 **Always learning:** New frameworks, cloud architecture, and best engineering practices
 - 💬 **Ask me about:** Vue.js, Node.js, JavaScript, and anything web development
 - ⚡ **Fun fact:** I debug with `console.log` and I'm not ashamed of it!
