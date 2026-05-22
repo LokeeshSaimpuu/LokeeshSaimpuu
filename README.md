@@ -74,43 +74,7 @@ Hey! I'm **Lokeesh Saimpuu** — a passionate **Software Engineer** with **5+ ye
   <a href="https://www.instagram.com/lokeeshsaimpuu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LokeeshSaimpuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeeshSaimpuu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeeshSaimpuu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LokeeshSaimpuu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Lokeesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LokeeshSaimpuu&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
