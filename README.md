@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey! I'm **Lokeesh Saimpuu** — a passionate **Software Engineer** with **5+ years of experience** crafting elegant, scalable, and high-performance web applications. I thrive at the intersection of clean code and great user experiences.
+Hey! I'm **Lokeesh Saimpuu** — a passionate **Software Engineer** with **3+ years of experience** crafting elegant, scalable, and high-performance web applications. I thrive at the intersection of clean code and great user experiences.
 
 - 🔭 **Currently working on:** Full-stack web applications and cloud-native solutions
 - 🌱 **Always learning:** New frameworks, cloud architecture, and best engineering practices
